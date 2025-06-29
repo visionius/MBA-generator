@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(198,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(203,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(217,17): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(217,17): message : consider using '%zd' in the format string
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(217,17): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'unsigned __int64'
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(217,17): message : consider using '%zd' in the format string
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(533,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MBA_generator.vcxproj -> C:\Users\Hossein\source\repos\MBA_generator\x64\Debug\MBA_generator.exe

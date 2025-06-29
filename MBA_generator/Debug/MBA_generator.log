@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(199,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(201,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(232,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(237,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(241,15): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(262,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(267,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(271,15): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(295,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hossein\source\repos\MBA_generator\MBA_generator\Source.cpp(533,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MBA_generator.vcxproj -> C:\Users\Hossein\source\repos\MBA_generator\Debug\MBA_generator.exe
