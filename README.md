@@ -14,9 +14,11 @@ Implemented methods include:
   Generates *alive* code to increase binary complexity, making reverse engineering more challenging. The design of this method is inspired by the approach in [12].
   
 - **CFF (Control-Flow Flattening)**  NOT INCLUDED
+
   Breaks down large code blocks and rearranges them into smaller, less obvious pieces. This disrupts the ability of static analysis tools to generate accurate control flow or call graphs.
   
 - **CI (Code Insertion)**  NOT INCLUDED
+
   Inserts *dead* or *alive* binary code at strategic locations to further confuse disassemblers and analyzers.
 
 ## Features
@@ -44,3 +46,10 @@ This work builds upon my experience with program analysis and aims to provide ha
 git clone https://github.com/visionius/MBA-generator.git
 cd MBA-generator
 # Build instructions here (e.g., make, cmake, etc.)
+```
+Screenshots of Obfuscating Notepad launcher shellcode:
+![fcn_00000001](https://github.com/user-attachments/assets/c594e251-4ec9-4107-943b-f0458caecdc9)
+
+![fcn_00000002](https://github.com/user-attachments/assets/fdc1e528-9c3f-4d99-8f89-5794c5423b90)
+
+![fcn_00000000_40](https://github.com/user-attachments/assets/b4130c97-5918-4fed-9315-43c7ce4d2b3c)
